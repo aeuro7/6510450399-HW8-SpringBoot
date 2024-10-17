@@ -1,4 +1,4 @@
-// ทิเบต เจริญศรีไพบูลย์ 6510450399
+// Tibet Charoensripaiboon 6510450399
 package ku.cs.kafe.common;
 
 public enum Status {
